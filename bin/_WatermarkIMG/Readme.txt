@@ -1,0 +1,1 @@
+Here location your PNG Watermark
